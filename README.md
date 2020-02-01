@@ -1,7 +1,4 @@
 # helloworld
-Hope someday I'll understand this more.
-
-I think I have Google Authenticator working with github now.
 
 Current price of bitcoin is 9403.
 
